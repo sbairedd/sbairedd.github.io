@@ -8,6 +8,5 @@ venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Works
 paperurl:
 citation: D. Mas Montserrat, H. Hao, S. K. Yarlagadda, S. Baireddy, R. Shao, J. Horváth, E. Bartusiak, J. Yang, D. Güera, F. Zhu, E. J. Delp. “Deepfakes Detection with Automatic Face Weighting”. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Workshop on Media Forensics. June 2020. Seattle, WA.
 ---
-Abstract:
 
 [Download paper here](https://arxiv.org/pdf/2004.12027) 

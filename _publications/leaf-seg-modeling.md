@@ -8,6 +8,5 @@ venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Works
 paperurl:
 citation: 'Y. Chen, S. Baireddy, E. Cai, C. Yang, and E. J. Delp. "Leaf Segmentation by Functional Modeling". IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Workshop on Computer Vision Problems in Plant Phenotyping (CVPPP). June 2019. Long Beach, CA.'
 ---
-Abstract:
 
 [Download paper here](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVPPP/Chen_Leaf_Segmentation_by_Functional_Modeling_CVPRW_2019_paper.pdf) 
